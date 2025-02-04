@@ -1,4 +1,4 @@
-let cart = [
+const cart = [
   { item: "Laptop", price: 1200 },
   { item: "Headphones", price: 100 },
   { item: "Mouse", price: 50 },
